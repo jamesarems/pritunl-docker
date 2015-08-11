@@ -1,5 +1,5 @@
 #Creating Images for PRITUNL web vpn service 
-FROM assp
+FROM jamesarems/assp:beta
 MAINTAINER James PS <jamesarems@gmail.com>
 
 #Updating Ubuntu packages
